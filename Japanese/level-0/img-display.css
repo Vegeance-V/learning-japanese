@@ -1,0 +1,2 @@
+window.onload = choosePic;
+var myPix = new Array("img/a.png", "img/i.png", "img/u.png", "img/e.png", "img/o.png", );
